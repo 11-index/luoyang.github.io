@@ -34,3 +34,49 @@ body
 	margin-top:50px;
 }
 
+.jiemian .konwledge,.C-learing,.ai,.html-css
+{
+	height:20vh;
+	margin:2.5vh;
+	color:#000;
+}
+
+.jiemian .konwledge .title,.C-learing .title,.ai .title,.html-css .title
+{
+	width:20vw;
+	height:20vh;
+	font-size:36px;
+	padding-left:20px;
+	padding-right:20px;
+	padding-top:7vh;
+	margin-left:30px;
+	margin-right:30px;
+	background-color:#FFF;
+	text-align:center;
+	display:block;
+	float:left;
+	font-family:楷体;
+}
+
+.jiemian div .small
+{
+	width:20vw;
+	height:20vh;
+	font-size:40px;
+	padding-left:20px;
+	padding-right:20px;
+	padding-top:7vh;
+	margin-left:30px;
+	margin-right:30px;
+	background-color:#FFF;
+	text-align:center;
+	display:block;
+	float:left;
+	font-family:华文新魏;
+}
+
+a
+{
+	text-decoration:none;
+	color:#0CF;
+}
