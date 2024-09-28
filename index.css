@@ -35,6 +35,16 @@ body
 	padding-bottom:50px;
 }
 
+.jiemian h4
+{
+	text-align:left;
+	color:#0CF;
+	font-family:楷体;
+	padding-left:150px;
+	padding-right:150px;
+	padding-bottom:50px;
+}
+
 .jiemian .konwledge,.C-learing,.ai,.html-css
 {
 	height:20vh;
